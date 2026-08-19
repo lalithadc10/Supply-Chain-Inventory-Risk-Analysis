@@ -179,3 +179,8 @@ Potential extensions include:
 - Automated data refresh
 - Power BI implementation
 - Statistical demand forecasting
+
+  ## 🔗 Connect with Me
+
+**LinkedIn:** *(www.linkedin.com/in/jayalalitha-t)*
+
