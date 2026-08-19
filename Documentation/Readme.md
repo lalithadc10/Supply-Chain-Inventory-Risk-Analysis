@@ -307,27 +307,27 @@ The supporting analysis remains separated from the executive presentation so tha
 
 -The analysis was converted into practical management recommendations.
 
--#Replenishment
+#Replenishment
 
 -Prioritize records currently below the reorder point to reduce potential stockout exposure.
 
--#Supplier Risk
+#Supplier Risk
 
 -Review suppliers with longer or more variable lead times and evaluate backup sourcing options where commercially feasible.
 
--#Demand Variability
+#Demand Variability
 
 -Monitor SKUs with higher Demand CV and ensure that inventory buffers reflect their demand uncertainty.
 
--#Supplier Diversification
+#Supplier Diversification
 
--Where multiple suppliers support an SKU, evaluate supplier performance and use supplier diversification as a potential risk-mitigation strategy.
+Where multiple suppliers support an SKU, evaluate supplier performance and use supplier diversification as a potential risk-mitigation strategy.
 
--#Disruption Planning
+#Disruption Planning
 
 -Use Scenario Manager to estimate inventory requirements under demand surges and supplier delays.
 
--#Forecast Monitoring
+#Forecast Monitoring
 
 -Track forecast error regularly because inaccurate demand forecasts can affect replenishment decisions.
 
