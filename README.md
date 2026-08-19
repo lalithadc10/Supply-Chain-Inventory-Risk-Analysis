@@ -19,7 +19,7 @@ I have created a short LinkedIn video demonstrating the complete analytical work
 - Executive dashboard
 - Management insights
 
-👉 **[Watch the Project Demonstration on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-supplychain-activity-7495446889987788800-j3gE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
+👉 **[Watch the 2–3 Minute Project Demonstration](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-supplychain-activity-7495446889987788800-j3gE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
 
 
 ## Business Problem
