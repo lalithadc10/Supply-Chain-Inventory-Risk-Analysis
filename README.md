@@ -7,7 +7,7 @@
 
 ![Supply Chain Inventory & Risk Dashboard](Dashboard/Dashboard.png)
 
-## 🎥 Project Demonstration
+##  Project Demonstration
 
 I have created a short LinkedIn video demonstrating the complete analytical workflow, including:
 
