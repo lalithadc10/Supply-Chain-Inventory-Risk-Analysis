@@ -5,7 +5,7 @@
 
 ## Executive Dashboard
 
-![Supply Chain Inventory & Risk Dashboard](Dashboard/executive_dashboard.png)
+![Supply Chain Inventory & Risk Dashboard](Dashboard/Dashboard.png)
 
 ## Business Problem
 
