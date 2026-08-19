@@ -150,17 +150,20 @@ Excel Scenario Manager was used to evaluate how changes in operating conditions 
 
 Four scenarios were created:
 
-Scenario	Demand Change	Lead-Time Delay
-Baseline	0%	0 days
-Demand Surge	+10%	0 days
-Supplier Delay	0%	+3 days
-Severe Disruption	+20%	+5 days
-Scenario Impact
-Scenario	Reorder Point
-Baseline	≈ 215
-Demand Surge	≈ 237
-Supplier Delay	≈ 283
-Severe Disruption	≈ 394
+| Scenario          | Demand Change | Lead-Time Delay |
+| ----------------- | ------------: | --------------: |
+| Baseline          |            0% |          0 days |
+| Demand Surge      |          +10% |          0 days |
+| Supplier Delay    |            0% |         +3 days |
+| Severe Disruption |          +20% |         +5 days |
+
+
+| Scenario          | Reorder Point |
+| ----------------- | ------------: |
+| Baseline          |         ≈ 215 |
+| Demand Surge      |         ≈ 237 |
+| Supplier Delay    |         ≈ 283 |
+| Severe Disruption |         ≈ 394 |
 
 The scenario analysis demonstrates that both demand increases and supplier delays can materially increase replenishment requirements.
 
@@ -304,27 +307,27 @@ The supporting analysis remains separated from the executive presentation so tha
 
 -The analysis was converted into practical management recommendations.
 
--Replenishment
+-#Replenishment
 
 -Prioritize records currently below the reorder point to reduce potential stockout exposure.
 
--Supplier Risk
+-#Supplier Risk
 
 -Review suppliers with longer or more variable lead times and evaluate backup sourcing options where commercially feasible.
 
--Demand Variability
+-#Demand Variability
 
 -Monitor SKUs with higher Demand CV and ensure that inventory buffers reflect their demand uncertainty.
 
--Supplier Diversification
+-#Supplier Diversification
 
 -Where multiple suppliers support an SKU, evaluate supplier performance and use supplier diversification as a potential risk-mitigation strategy.
 
--Disruption Planning
+-#Disruption Planning
 
 -Use Scenario Manager to estimate inventory requirements under demand surges and supplier delays.
 
--Forecast Monitoring
+-#Forecast Monitoring
 
 -Track forecast error regularly because inaccurate demand forecasts can affect replenishment decisions.
 
@@ -393,12 +396,13 @@ as operating conditions move from baseline to severe disruption.
 
 Based on the analysis, management should consider the following actions:
 
-Risk Area	Recommended Action
-Below Reorder	Prioritize replenishment
-High Demand CV	Review safety-stock levels
-Long Supplier Lead Time	Evaluate supplier performance and alternatives
-Multiple Suppliers	Assess backup sourcing capability
-Forecast Error	Improve demand forecasting
-Severe Disruption	Maintain contingency inventory plans
+| Risk Area               | Recommended Action                             |
+| ----------------------- | ---------------------------------------------- |
+| Below Reorder           | Prioritize replenishment                       |
+| High Demand CV          | Review safety-stock levels                     |
+| Long Supplier Lead Time | Evaluate supplier performance and alternatives |
+| Multiple Suppliers      | Assess backup sourcing capability              |
+| Forecast Error          | Improve demand forecasting                     |
+| Severe Disruption       | Maintain contingency inventory plans           |
 
 The objective is not simply to hold more inventory, but to position inventory where uncertainty and replenishment risk are highest
