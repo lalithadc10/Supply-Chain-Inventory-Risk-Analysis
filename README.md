@@ -7,6 +7,21 @@
 
 ![Supply Chain Inventory & Risk Dashboard](Dashboard/Dashboard.png)
 
+## 🎥 Project Demonstration
+
+I have created a short LinkedIn video demonstrating the complete analytical workflow, including:
+
+- Business problem definition
+- PROVE framework
+- Demand and supplier analysis
+- Safety stock and reorder-point modeling
+- Scenario Manager
+- Executive dashboard
+- Management insights
+
+👉 **[Watch the Project Demonstration on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_excel-dataanalytics-supplychain-activity-7495446889987788800-j3gE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)**
+
+
 ## Business Problem
 
 Inventory availability is not determined only by how much stock a
